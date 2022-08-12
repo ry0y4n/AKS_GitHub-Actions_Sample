@@ -5,7 +5,7 @@ env:
   REGISTRY_NAME: momosukeacrsample
   CLUSTER_NAME: myAKSCluster
   CLUSTER_RESOURCE_GROUP: myResourceGroup
-  NAMESPACE: myApp
+  NAMESPACE: my-app
   SECRET: acr-secret
   APP_NAME: awesomeapps
 
